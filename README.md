@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi
+Here you can find my solutions to some programming-exercices :
+  * \href{https://adventofcode.com/}{Advent of code} : example with a solution of \href{https://adventofcode.com/2022/day/19}{day 19 of 2022} with beam search : https://github.com/Adrien-No/advent-of-code/blob/main/2022/j19_beam_search.ml
 
+  * \href{https://prologin.org/}{Prologin} (french contest) : 
 <!--
-**Adrien-No/Adrien-No** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Adrien-No/Adrien-No** is a special repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -11,6 +14,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
