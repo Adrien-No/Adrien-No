@@ -1,6 +1,6 @@
 ### Hi
 Here you can find my solutions to some programming-exercices :
-  * \href{https://adventofcode.com/}{Advent of code} : example with a solution of \href{https://adventofcode.com/2022/day/19}{day 19 of 2022} with beam search : https://github.com/Adrien-No/advent-of-code/blob/main/2022/j19_beam_search.ml
+  * [Advent of code](https://adventofcode.com/) : example with a solution of \href{https://adventofcode.com/2022/day/19}{day 19 of 2022} with beam search : https://github.com/Adrien-No/advent-of-code/blob/main/2022/j19_beam_search.ml
 
   * \href{https://prologin.org/}{Prologin} (french contest) : 
 <!--
