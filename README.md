@@ -1,8 +1,8 @@
 ### Hi
 Here you can find my solutions to some programming-exercices :
-  * [Advent of code](https://adventofcode.com/) : example with [my solution with beam search](https://github.com/Adrien-No/advent-of-code/blob/main/2022/j19_beam_search.ml) of [day 19 of 2022](https://adventofcode.com/2022/day/19)
+  * [Advent of code](https://adventofcode.com/) : example, [my solution with beam search](https://github.com/Adrien-No/advent-of-code/blob/main/2022/j19_beam_search.ml) of [day 19 of 2022](https://adventofcode.com/2022/day/19)
 
-  * [Prologin](https://prologin.org/) (french contest) : example with [a solution](https://github.com/Adrien-No/prologin-ocaml-solutions/tree/master/2024/qualifs/p4) of a [query-problem](https://prologin.org/train/2024/qualification/batiments)
+  * [Prologin](https://prologin.org/) (french contest) : example, [a solution with sparse table](https://github.com/Adrien-No/prologin-ocaml-solutions/tree/master/2024/qualifs/p4) of a [query-problem](https://prologin.org/train/2024/qualification/batiments)
   
   * [France-IOI](https://www.france-ioi.org/algo/chapters.php) : example with a [solution](https://github.com/Adrien-No/france-ioi-solutions/tree/main/niveau_4/0.1-installation_du_camping) of a classic [dynamic-programming problem](https://www.france-ioi.org/algo/task.php?idChapter=671&idTask=2329).  
 
