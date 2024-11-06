@@ -8,6 +8,7 @@ Here you can find my solutions to some programming-exercices :
 
 ### Projects
 One I did years ago : [Blast Cone](https://github.com/Adrien-No/Blast-Cone)
+
 my most recent ones are available on my gitlab.
 
 <!--
