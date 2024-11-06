@@ -6,9 +6,9 @@ Here you can find my solutions to some programming-exercices :
   
   * [France-IOI](https://www.france-ioi.org/algo/chapters.php) : example with a [solution](https://github.com/Adrien-No/france-ioi-solutions/tree/main/niveau_4/0.1-installation_du_camping) of a classic [dynamic-programming problem](https://www.france-ioi.org/algo/task.php?idChapter=671&idTask=2329).  
 
-I will also publish my "personal projects".
-
-For now, here one I did years ago : [Blast Cone](https://github.com/Adrien-No/Blast-Cone)
+### Projects
+One I did years ago : [Blast Cone](https://github.com/Adrien-No/Blast-Cone)
+my most recent ones are available on my gitlab.
 
 <!--
 **Adrien-No/Adrien-No** is a special repository because its `README.md` (this file) appears on your GitHub profile.
